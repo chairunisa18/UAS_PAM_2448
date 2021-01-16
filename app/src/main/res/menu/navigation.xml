@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bnv_matches"
+        android:icon="@drawable/ic_tanding"
+        android:title="@string/title_matches" />
+
+
+    <item
+        android:id="@+id/bnv_favorites"
+        android:icon="@drawable/ic_bintang"
+        android:title="@string/title_favorites" />
+</menu>
